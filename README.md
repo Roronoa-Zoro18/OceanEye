@@ -76,5 +76,5 @@ Visualization: Plotly / Power BI
 
 Deployment: Docker, NVIDIA Jetson (for edge AI), AWS/GCP (optional)
 
-Video presentation
+Video presentation-
 https://drive.google.com/file/d/15aHjFCT0IDO_ZmSxThV81hSdxGoQ6t8U/view?usp=drive_link
