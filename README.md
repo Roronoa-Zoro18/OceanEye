@@ -76,16 +76,4 @@ Visualization: Plotly / Power BI
 
 Deployment: Docker, NVIDIA Jetson (for edge AI), AWS/GCP (optional)
 
-How to Run
-1️⃣ Backend
-cd backend
-pip install -r requirements.txt
-python app.py
 
-2️⃣ Frontend
-cd frontend
-npm install
-npm start
-
-3️⃣ Open in Browser
-http://localhost:3000
